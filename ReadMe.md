@@ -42,11 +42,10 @@ AI_Project/
 │   ├── 03_inference.ipynb
 │   └── 04_visualization.ipynb
 │
-├── checkpoints/
-├── outputs/
-│   ├── logs/
+├── results/
+│   ├── checkpoints/
 │   ├── figures/
-│   └── predictions/
+│   └── csvs/
 │
 ├── requirements.txt
 ├── AGENT.md
